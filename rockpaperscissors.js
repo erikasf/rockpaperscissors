@@ -53,3 +53,8 @@ function compare(choice1, choice2){
 }
 </script>
 </head>
+<body>
+<h1> Welcome To The Rock Paper Scissors Challenge!</h1>
+<h2> Are you ready to play? Just type your response of rock paper or scissors into the box that will show up on your screen"</h2>
+</body>
+</html>
